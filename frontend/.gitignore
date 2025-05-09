@@ -1,52 +1,23 @@
-# === DEPENDENCIES ===
-node_modules/
-.pnp/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
 .pnp.js
 
-# === BUILD OUTPUT ===
-build/
-dist/
+# testing
+/coverage
 
-# === TESTING ===
-coverage/
+# production
+/build
 
-# === ENVIRONMENT VARIABLES ===
-.env
-.env.*
-!.env.example  # keep a sample file for reference
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# === LOG FILES ===
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# === SYSTEM FILES ===
-.DS_Store
-Thumbs.db
-__MACOSX/
-
-# === IDE/EDITOR CONFIG ===
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# === OS GENERATED FILES ===
-*.swp
-*.swo
-*.bak
-*.tmp
-
-# === DATABASE/SECRETS BACKUPS ===
-*.sqlite
-*.sqlite3
-*.bak
-*.sql
-*.pem
-*.key
-*.crt
-
-# === OPTIONAL PROJECT FILES ===
-*.log
-*.tgz
-
