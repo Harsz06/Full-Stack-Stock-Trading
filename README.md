@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 **Harsh Guleria**  
-GitHub: https://github.com/Harsz06   
-LinkedIn: https://www.linkedin.com/in/guleria-harsh
-X: https://x.com/harsz_06
+- GitHub: https://github.com/Harsz06   
+- LinkedIn: https://www.linkedin.com/in/guleria-harsh
+- X: https://x.com/harsz_06
 
