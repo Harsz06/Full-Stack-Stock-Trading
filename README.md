@@ -51,9 +51,6 @@ Contributions are welcome! To contribute:
 3. Commit changes and push to your fork.
 4. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 **Harsh Guleria**  
 - GitHub: https://github.com/Harsz06   
