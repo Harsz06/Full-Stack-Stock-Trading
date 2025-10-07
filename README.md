@@ -24,11 +24,6 @@ Ensure you have the following installed:
 - MongoDB
 - Git
 
-### Clone the Repository
-```bash
-git clone https://github.com/Harsz06/Full-Stack-Stock-Trading-Platform.git
-```
-
 ### Backend Setup
 ```bash
 cd backend
@@ -63,4 +58,5 @@ This project is licensed under the MIT License.
 **Harsh Guleria**  
 GitHub: https://github.com/Harsz06   
 LinkedIn: https://www.linkedin.com/in/guleria-harsh
+X: https://x.com/harsz_06
 
