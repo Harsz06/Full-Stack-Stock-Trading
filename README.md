@@ -1,10 +1,22 @@
 # Full-Stack Stock Trading Platform
 
 <p align="center">
-  <img src="assets/zero-data.jpeg" alt="Data Screenshot" width="200" />
-  <img src="assets/zero-found.jpeg" alt="Found Screenshot" width="200" />
-  <img src="assets/zero-graph.jpeg" alt="Graph Screenshot" width="200" />
-  <img src="assets/zero-interface.jpeg" alt="Interface Screenshot" width="200" />
+  <img src="assets/zero-interface.jpeg" alt="Interface Screenshot" width="800" />
+</p>
+
+
+<p align="center">
+  <img src="assets/zero-found.jpeg" alt="Found Screenshot" width="800" />
+</p>
+
+
+<p align="center">
+ <img src="assets/zero-data.jpeg" alt="Data Screenshot" width="800" />
+</p>
+
+
+<p align="center">
+  <img src="assets/zero-graph.jpeg" alt="Graph Screenshot" width="800" />
 </p>
 
 ## Overview
